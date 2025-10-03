@@ -38,6 +38,17 @@ python test_image_patch.py
 
 
 ```
+## How to cite
+```
+@article{gao2025effectiveness,
+  title={The Effectiveness of a Simplified Model Structure for Crowd Counting},
+  author={Gao, Xingen and Chen, Lei and Chao, Fei and Chang, Xiang and Gao, Xinghang and Jiang, Huali and Liu, Li and Zhang, Hongyi},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2025},
+  publisher={IEEE}
+}
+```
+
 
 ## Acknowledgement
 
