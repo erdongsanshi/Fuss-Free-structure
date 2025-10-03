@@ -39,6 +39,7 @@ python test_image_patch.py
 
 
 ## How to cite
+Please cite this paper when using it:
 ```
 @article{gao2025effectiveness,
   title={The Effectiveness of a Simplified Model Structure for Crowd Counting},
