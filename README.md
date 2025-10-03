@@ -37,7 +37,7 @@ python test_image_patch.py
 | NWPU(Val)                |  [NWPU_model.pth](https://drive.google.com/file/d/1zCkfSvTV2Cx5boEZ3a6lgyQMCPeeNGmi/view?usp=drive_link)  | 41.26 |
 
 
-```
+
 ## How to cite
 ```
 @article{gao2025effectiveness,
