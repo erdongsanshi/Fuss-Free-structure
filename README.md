@@ -1,6 +1,10 @@
 # The Effectiveness of a Simplified Structure for Crowd Counting
 
-This repository includes the official implementation of the paper:[The Effectiveness of a Simplified Structure for Crowd Counting](https://ieeexplore.ieee.org/document/10938701)
+## 🎉 Great News!
+
+This work has been accepted by **IEEE Transactions on Instrumentation and Measurement (TIM)**!  
+Official implementation of our paper:  
+**[The Effectiveness of a Simplified Structure for Crowd Counting](https://ieeexplore.ieee.org/document/10938701)**
 
 ## Installation
 
